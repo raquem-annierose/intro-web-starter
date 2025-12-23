@@ -7,3 +7,8 @@
   Example idea:
   "Hello! JavaScript is working."
 */
+
+const button = document.querySelector("button");
+button.addEventListener("click", () => {
+  alert("Hello! JavaScript is working.");
+});
