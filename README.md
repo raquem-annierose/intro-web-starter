@@ -1,6 +1,3 @@
-
----
-
 # Intro to Web Development – Starter Project
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -10,17 +7,18 @@ Welcome! This repository is the starting point for your first web development as
 **Your Goal:** Create a simple webpage by adding HTML, CSS, and JavaScript to this project.
 
 ## 📋 Prerequisites
-Before you begin, ensure you have the following:
-*   [x] A **GitHub** account
-*   [x] **[Git](https://git-scm.com/downloads)** installed on your computer
-*   [x] **[VS Code](https://code.visualstudio.com/)** (or any code editor) installed
-*   [x] Watched the *Intro to HTML, CSS, and JavaScript* video
 
----
+Before you begin, ensure you have the following:
+
+- [x] A **GitHub** account
+- [x] **[Git](https://git-scm.com/downloads)** installed on your computer
+- [x] **[VS Code](https://code.visualstudio.com/)** (or any code editor) installed
+- [x] Watched the _Intro to HTML, CSS, and JavaScript_ video
 
 ## 🛠️ Setup Instructions
 
 ### Step 1: Fork this repository
+
 1.  Click the **Fork** button at the top-right of this page.
 2.  Select **your GitHub account** as the destination.
 3.  Wait for GitHub to create your copy.
@@ -29,6 +27,7 @@ Before you begin, ensure you have the following:
 > `your-username/intro-web-starter`
 
 ### Step 2: Clone YOUR fork to your computer
+
 1.  On your forked repository page, click the green **<> Code** button.
 2.  Copy the **HTTPS link**.
 3.  Open your **Terminal** (Mac) or **Git Bash** (Windows).
@@ -40,15 +39,19 @@ cd intro-web-starter
 ```
 
 ### Step 3: Open the project in VS Code
+
 While still in your terminal, run:
+
 ```bash
 code .
 ```
-*(If this command doesn't work, open VS Code manually and go to **File > Open Folder**, then select the `intro-web-starter` folder).*
+
+_(If this command doesn't work, open VS Code manually and go to **File > Open Folder**, then select the `intro-web-starter` folder)._
 
 ---
 
 ## 📂 Project Structure
+
 Your project folder should look like this. If any files are missing, please create them.
 
 ```text
@@ -62,6 +65,7 @@ intro-web-starter/
 ---
 
 ## 📝 Your Tasks
+
 Open the files in VS Code and look for the comments labeled `<!-- TODO -->` or `// TODO`.
 
 1.  **`index.html`**: Add headers, paragraphs, and a button.
@@ -71,9 +75,11 @@ Open the files in VS Code and look for the comments labeled `<!-- TODO -->` or `
 ---
 
 ## 💾 Step 6: Commit & Push
+
 You are required to have **at least 3 commits** (one for each file type).
 
 ### Suggested Workflow:
+
 1.  **Edit `index.html`** → Save → Run:
     ```bash
     git add index.html
@@ -97,6 +103,7 @@ You are required to have **at least 3 commits** (one for each file type).
 ---
 
 ## ✅ Step 7: Verify & Submit
+
 1.  Refresh your GitHub repository page.
 2.  Check the **Commits** area (top-right of the file list) to see your history.
 3.  **Fill out the Reflection section below.**
@@ -109,18 +116,23 @@ You are required to have **at least 3 commits** (one for each file type).
 ---
 
 ## 🧠 Reflection (Required)
-*Please edit this file and fill in your answers below before submitting.*
 
-**Name:** [ YOUR NAME HERE ]
+_Please edit this file and fill in your answers below before submitting._
+
+**Name:** Annie Rose Raquem
 
 **1. What did you learn from the intro video?**
-> [ Write your answer here ]
+
+> I learned that HTML, CSS, and JavaScript are like a team: HTML builds the structure, CSS makes it look good, and JavaScript makes it interactive. They all work together to create modern websites.
 
 **2. What is the role of HTML in web development?**
-> [ Write your answer here ]
+
+> HTML is the skeleton of a webpage. It creates the structure and defines what content goes where, like headings, paragraphs, buttons, and images. Without HTML, there's nothing to see on the page.
 
 **3. What is the role of CSS in web development?**
-> [ Write your answer here ]
+
+> CSS is the designer. It takes boring HTML and makes it visually appealing by changing colors, fonts, spacing, and layouts. CSS controls the "look and feel" of your website without changing the actual content.
 
 **4. What is the role of JavaScript in web development?**
-> [ Write your answer here ]
+
+> JavaScript is the brain that makes websites interactive. It lets you respond to user actions like clicks, hover effects, and form submissions. Without JavaScript, websites would just be static pages with no interaction.
